@@ -1,2 +1,3 @@
 Insert your e-mail 
 Insert your password
+Insert your age
