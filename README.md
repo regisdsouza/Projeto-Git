@@ -8,7 +8,7 @@ Basically testing those commands on git and learning their usage
 
 **git add .** - to add all archives 
 
-**git c"ommit -m "comment** - for example: initial commit
+**git commit -m "comment"** - for example: initial commit
 
 **git config --global user.email "gmail"** (from GitHub)
 
